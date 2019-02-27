@@ -1,4 +1,4 @@
-public class Num {
+ class Num {
 public static void main(String[] args) {
 String string = "2";
 boolean numeric = true;
